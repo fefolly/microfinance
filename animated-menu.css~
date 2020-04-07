@@ -1,0 +1,35 @@
+
+ul{
+	margin:0;
+	padding:0;
+}
+
+li{
+	width:100px;
+	height:40px;
+	float:left;
+	color:#191919;
+	text-align:center;
+	overflow:hidden;
+	position: absolute;
+}
+
+a{
+	color:#FFF;
+	text-decoration:none;
+}
+
+p{
+	padding:0px 0px;
+}
+
+	.subtext{
+		padding-top:15px;
+	}
+
+/*Menu Color Classes*/
+.green{background:#00349a  url('images/banii.gif') top center repeat-x; border-radius: 0px 0px 0px 50px;}
+.yellow{background:#00349a  url('images/banii.gif') top center repeat-x; border-radius: 0px 0px 0px 0px;}
+.red{background:#00349a  url('images/banii.gif') top center repeat-x; border-radius: 0px 0px 0px 0px;}
+.purple{background:#00349a  url('images/banii.gif') top center repeat-x ; border-radius: 0px 0px 50px 0px;}
+.blue{background:#00349a  url('images/banii.gif') top center repeat-x ; border-radius: 0px 0px 0px 0px;}
